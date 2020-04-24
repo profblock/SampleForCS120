@@ -1,5 +1,9 @@
 I'm in other land
+<<<<<<< HEAD
 This is another phrase: MASTER BRANCH
+=======
+This is another phrase: OTHER BRANCH
+>>>>>>> other-branch
 This is a third
 No data here
 
